@@ -1,2 +1,2 @@
 # Training
-## Hello
+## Hello Training
